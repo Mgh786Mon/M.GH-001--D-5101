@@ -1,0 +1,4 @@
+name,type,material,density,thickness_mm,length_mm,width_mm,diameter_mm,height_mm,od_mm,id_mm,quantity
+Plate1,plate,steel,,10,2000,1500,,,,,1
+Nozzle1,cylinder,stainless_304,,100,,,100,200,,,2
+Flange1,ring,steel,,10,,,,,220,120,4
